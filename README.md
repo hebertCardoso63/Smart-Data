@@ -32,7 +32,7 @@ reactJs: v18.3.1
 
 antd: v5.16.5
 
-axios: 
+axios: v1.6.8
 
 ## Estrutura/Construção
 
