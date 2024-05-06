@@ -9,7 +9,6 @@
 - Editar registros na tabela
 - Exportar dados da tabela no formato CSV
 - Listagem do histórico de alterações de uma tabela
-- Exibir a sequência que representa a rota mais curta para visitar todos clientes, saindo do ponto (0,0)
 
 ## Ferramentas e versões:
 
